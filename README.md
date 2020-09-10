@@ -1,9 +1,12 @@
 ### Hey there, I'm Chris - your off duty [DarkWebTourGuide][website] 👋
 
+<br />
+<br />
+
 [![website](https://img.shields.io/website?label=chrisadams.io&style=for-the-badge&url=https%3A%2F%2Fchrisadams.io)](https://chrisadams.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/outofcashews?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Foutofcashews&screen_name=outofcashews)
 
-## Former baby. Current developer out here building stuff...
+## Former baby. Current developer.
 
 - 💾 I’m currently working on a business essentials platform SyoStack!
 - 💬 Always looking for new tech friends to chat and collab with.
@@ -52,5 +55,3 @@
 [twitter]: https://twitter.com/outofcashews
 [instagram]: https://instagram.com/chrisadams.io
 [linkedin]: https://linkedin.com/in/christopherkyleadams/
-
-<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DarkWeb)](https://github.com/anuraghazra/github-readme-stats) -->
