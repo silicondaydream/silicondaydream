@@ -1,7 +1,5 @@
 ## Hey there, I'm Chris - your off duty [DarkWebTourGuide][website] 👋
 
-<br />
-
 ### Former baby. Current developer.
 
 -  💾  I’m currently working on a business essentials platform SyoStack!
