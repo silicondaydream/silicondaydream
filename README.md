@@ -8,6 +8,8 @@
 -  💬  Always looking for new tech friends to chat and collab with.
 -  ⚡   Fun fact: I love to read comics, play strategy games like Chess and Catan
 
+<br />
+
 ### My stalkables:
 
 [<img align="left" alt="chrisadams.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
