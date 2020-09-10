@@ -1,14 +1,10 @@
 ## Hey there, I'm Chris - your off duty [DarkWebTourGuide][website] 👋
 
 ### Former baby. Current developer.
-<<<<<<< HEAD
-=======
 
--  💾  I’m currently working on a business essentials platform SyoStack!
--  💬  Always looking for new tech friends to chat and collab with.
--  ⚡   Fun fact: I love to read comics, play strategy games like Chess and Catan
->>>>>>> e026ae34060fdf27f7ddd13e444154bb21bc7e9c
-
+- 💾 I’m currently working on a business essentials platform SyoStack!
+- 💬 Always looking for new tech friends to chat and collab with.
+- ⚡ Fun fact: I love to read comics, play strategy games like Chess and Catan
 
 ### My stalkables:
 
@@ -45,10 +41,6 @@
 [![website](https://img.shields.io/website?label=chrisadams.io&style=for-the-badge&url=https%3A%2F%2Fchrisadams.io)](https://chrisadams.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/outofcashews?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Foutofcashews&screen_name=outofcashews)
 
-<<<<<<< HEAD
-=======
-
->>>>>>> e026ae34060fdf27f7ddd13e444154bb21bc7e9c
 ---
 
 <details>
