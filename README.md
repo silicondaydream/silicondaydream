@@ -5,7 +5,7 @@
 
 ## Former baby. Current developer out here building stuff...
 
-- 💾 I’m currently working on an business essentials platform [SyoStack]!
+- 💾 I’m currently working on a business essentials platform SyoStack!
 - 💬 Always looking for new tech friends to chat and collab with.
 - ⚡ Fun fact: I love to read comics, play strategy games like Chess and Catan
 
