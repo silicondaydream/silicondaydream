@@ -1,12 +1,10 @@
 ### Hey there, I'm Chris - your off duty [DarkWebTourGuide][website] 👋
-
 <br />
-
 ## Former baby. Current developer.
 
-- 💾 I’m currently working on a business essentials platform SyoStack!
-- 💬 Always looking for new tech friends to chat and collab with.
-- ⚡ Fun fact: I love to read comics, play strategy games like Chess and Catan
+-  💾  I’m currently working on a business essentials platform SyoStack!
+-  💬  Always looking for new tech friends to chat and collab with.
+-  ⚡   Fun fact: I love to read comics, play strategy games like Chess and Catan
 
 ### My stalkables:
 
@@ -16,7 +14,7 @@
 [<img align="left" alt="chrisadams.io | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+<br />
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
@@ -38,7 +36,7 @@
 <br />
 <br />
 <br />
-<br />
+
 
 [![website](https://img.shields.io/website?label=chrisadams.io&style=for-the-badge&url=https%3A%2F%2Fchrisadams.io)](https://chrisadams.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/outofcashews?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Foutofcashews&screen_name=outofcashews)
