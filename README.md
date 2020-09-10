@@ -44,7 +44,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="DarkWebTourGuide's Github Stats" src="https://github-readme-stats.darkwebtourguide.vercel.app/api?username=DarkWebTourGuide&show_icons=true&hide_border=true" />
+  <img align="left" alt="DarkWebTourGuide's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DarkWebTourGuide&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -52,3 +52,5 @@
 [twitter]: https://twitter.com/outofcashews
 [instagram]: https://instagram.com/chrisadams.io
 [linkedin]: https://linkedin.com/in/christopherkyleadams/
+
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DarkWeb)](https://github.com/anuraghazra/github-readme-stats) -->
