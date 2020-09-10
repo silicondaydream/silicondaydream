@@ -1,7 +1,6 @@
 ### Hey there, I'm Chris - your off duty [DarkWebTourGuide][website] 👋
 
 <br />
-<br />
 
 ## Former baby. Current developer.
 
@@ -49,7 +48,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="DarkWebTourGuide's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DarkWebTourGuide&show_icons=true&hide_border=true" />
+  <img align="left" alt="DarkWebTourGuide's Github Stats" src="https://github-readme-stats-tau-smoky.vercel.app/api?username=DarkWebTourGuide&show_icons=true&hide_border=true" />
 
 </details>
 
