@@ -1,10 +1,10 @@
 ## Hey there, I'm Chris - your off duty [DarkWebTourGuide][website] 👋
 
-### Former baby. Current developer.
+### Former baby. Future Martian.
 
 - 💾 I’m currently working on a business essentials platform SyoStack!
 - 💬 Always looking for new tech friends to chat and collab with.
-- ⚡ Fun fact: I love to read comics, play strategy games like Chess and Catan
+- ⚡ Fact: Barry Allen is the best Flash. I play Chess and eat cashews.
 
 ### My stalkables:
 
@@ -38,17 +38,7 @@
 <br />
 <br />
 
-[![website](https://img.shields.io/website?label=chrisadams.io&style=for-the-badge&url=https%3A%2F%2Fchrisadams.io)](https://chrisadams.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/outofcashews?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Foutofcashews&screen_name=outofcashews)
-
 ---
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="DarkWebTourGuide's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DarkWebTourGuide&show_icons=true&hide_border=true&count_private=true&hide=prs,contribs" />
-
-</details>
 
 [website]: https://chrisadams.io
 [twitter]: https://twitter.com/outofcashews
