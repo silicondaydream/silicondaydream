@@ -2,8 +2,8 @@
 
 ### Former baby. Future Martian.
 
-- 💾 I’m currently working on a business essentials platform SyoStack!
-- 💬 Always looking for new tech friends to chat and collab with.
+- 💾 I’m currently working on a blockchain token!
+- 💬 Always up to chat and collab.
 - ⚡ Fact: Barry Allen is the best Flash. I play Chess and eat cashews.
 
 ### My stalkables:
