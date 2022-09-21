@@ -4,7 +4,7 @@
 
 - 💾 I’m currently working on an internet media start up
 - 💬 Always up to chat and collab.
-- ⚡ Facts: Barry Allen is the best Flash. It's data not data.
+- ⚡ Facts: Barry Allen is the best Flash. It's pronounced data not data.
 
 ### My stalkables:
 
