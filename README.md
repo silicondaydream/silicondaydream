@@ -1,10 +1,10 @@
-## Hey there, I'm Chris - your off duty [DarkWebTourGuide][website] 👋
+## Hey there, I'm Chris 👋
 
 ### Former baby. Future Martian.
 
-- 💾 I’m currently working on a blockchain token!
+- 💾 I’m currently working on an internet media start up
 - 💬 Always up to chat and collab.
-- ⚡ Fact: Barry Allen is the best Flash. I play Chess and eat cashews.
+- ⚡ Facts: Barry Allen is the best Flash. It's data not data.
 
 ### My stalkables:
 
@@ -41,6 +41,6 @@
 ---
 
 [website]: https://chrisadams.io
-[twitter]: https://twitter.com/outofcashews
+[twitter]: https://twitter.com/chkyada
 [instagram]: https://instagram.com/chrisadams.io
 [linkedin]: https://linkedin.com/in/christopherkyleadams/
