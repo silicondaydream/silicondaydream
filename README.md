@@ -2,6 +2,6 @@
 
 ### Hope you're having a good day.
 
-- 💾 I’m currently working on an algerbraic reasoning system for LLMs.
-- ⚡ It's pronounced data not data.
+- 💾 I’m currently researching and developing an algerbraic reasoning system for LLMs.
+- ⚡ Also currently working on an LLM aggregator platform launching in April 2024
 
