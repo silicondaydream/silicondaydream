@@ -1,4 +1,4 @@
-## Hey, my name's Chris <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="25px">
+### Hey, I'm Chris <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="25px">
 
 Im a software engineer and speculative fiction writer.
 
