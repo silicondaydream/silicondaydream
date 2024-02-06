@@ -1,14 +1,13 @@
-## Hey 👋
+## Hey <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="25px">
 
 ### Hope you're having a good day.
 
 My name’s Chris, Im a software engineer and speculative fiction writer.
-I build scaleable systems and robust frontend experiences for mid to large businesses.
+I build scaleable systems and robust frontend experiences.
 
-- Founder of [Geekymango.com](http://Geekymango.com), a weekly tech newsletter and educational media company
-- Researcher at [Yukio Labs](http://yukiolabs.com) working on algebraic reasoning systems
-- My goal is to positively impact our world with technology
+- 🥭 Founder of [Geekymango.com](http://Geekymango.com), a weekly tech newsletter and educational media company
+- 🔍 Researcher at [Yukio Labs](http://yukiolabs.com) working on algebraic reasoning systems
+- 🌍 My goal is to positively impact our world with technology
 
-- 💾 I’m currently researching and developing an algerbraic reasoning system for LLMs.
-- ⚡ Also currently working on a real-time collaboration platform
+- ⚡ Also working on a real-time collaboration platform writing a novel in my spare time.
 
