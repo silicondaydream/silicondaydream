@@ -1,8 +1,6 @@
-## Hey <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="25px">
+## Hey, my name's Chris <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" width="25px">
 
-### Hope you're having a good day.
-
-My name’s Chris, Im a software engineer and speculative fiction writer.
+Im a software engineer and speculative fiction writer.
 
 I build scaleable systems and robust frontend experiences.
 
