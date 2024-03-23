@@ -2,7 +2,7 @@
 
 I'm a frontend focused software engineer.
 
-I build scaleable systems and robust ui experiences.
+I build scaleable systems and robust UI experiences.
 
 - 🥭 Founder of [Geekymango.com](http://Geekymango.com), a weekly tech newsletter.
 - 🔍 Research @ [Yukio Labs](http://yukiolabs.com)
