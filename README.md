@@ -2,8 +2,8 @@
 
 I'm a software engineer and electronics hobbyist.
 
-- 🥭 [Geekymango.com](https://geekymango.com) - a weekly tech newsletter.
-- 🔍 [Yukio Labs](https://yukiolabs.com) - AI resources.
+- 🥭 [Geekymango.com](https://geekymango.com) - a weekly tech newsletter
+- 🔍 [Yukio Labs](https://yukiolabs.com) - AI resources
 - 💻 [Vixia Digital Services](https://vixiadigital.com) - Software Consulting
 
 
