@@ -2,9 +2,9 @@
 
 I'm a software engineer and electronics hobbyist.
 
-- 🥭 [Geekymango.com](https://geekymango.com) - Weekly tech newsletter
-- 🔍 [Yukio Labs](https://yukiolabs.com) - AI resources
-- 💻 [Vixia Digital Services](https://vixiadigital.com) - Software Consulting
+- 🥭 [Geekymango.com](https://geekymango.com) - Weekly Tech Newsletter
+- 🔍 [Arboria Labs](https://arboriaresearch.com) - Swarm Intelligence // Distributed Systems Research
+- 💻 [Pruitt Software](https://pruitt.app) - All-in-one Writing Platform For Authors
 
 
  🌍 _“Per Aspera ad astra"_
