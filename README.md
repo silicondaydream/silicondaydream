@@ -3,7 +3,7 @@
 I'm a software engineer and electronics hobbyist.
 
 - 🥭 [Geekymango.com](https://geekymango.com) - Weekly Tech Newsletter
-- 🔍 [Arboria Labs](https://arboriaresearch.com) - Swarm Intelligence // Distributed Systems Research
+- 🔍 [Arboria Research](https://arboriaresearch.com) - Swarm Intelligence // Distributed Systems Research
 - 💻 [Pruitt Software](https://pruitt.app) - All-in-one Writing Platform For Authors
 
 
