@@ -2,7 +2,7 @@
 
 Engineer, researcher, part-time raconteur
 
-Some stuff I built:
+
 - [Geekymango.com](https://geekymango.com) - Weekly Tech Newsletter
 - [Arboria Research](https://arborialabs.com) - Swarm Intelligence // Distributed Systems Research
 - [Pruitt Software](https://pruitt.app) - All-in-one Writing Platform For Authors
